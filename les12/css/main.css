@@ -11,9 +11,14 @@
     src: url(fonts/rm_typerighter.ttf);
 }
 
-.title {
+.title-normal {
     font-family: Title;
     background-color: rgba(255, 192, 203, 0.8);
+    font-size: 50px;
+}
+.title-dark {
+    font-family: Title;
+    background-color: rgba(141, 101, 107, 0.8);
     font-size: 50px;
 }
 .div-title {
@@ -23,8 +28,11 @@
     float: left;
 }
 
-.content {
+.content-normal {
     background-color: rgba(255, 192, 203, 0.5);
+}
+.content-dark {
+    background-color: rgba(141, 101, 107, 0.8);
 }
 .content p {
     font-family: Main;
