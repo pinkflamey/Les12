@@ -4,7 +4,9 @@
 
 ---
 
+**Before:**
 ![opdracht 1 before](op1-before.png)
+**After:**
 ![opdracht 1 after](op1-after.png)
 
 * Kleur aangepast via de css editor in de debugger;
