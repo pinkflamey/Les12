@@ -2,8 +2,6 @@
 
 ## Opdracht 1
 
----
-
 **Before:**
 ![opdracht 1 before](op1-before.png)
 **After:**
